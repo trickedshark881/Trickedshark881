@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EkanshBhadani
+- 👋 Hi, I’m @trickedshark881
 - 👀 I’m interested in Programming and VLSI
 - 🌱 I’m currently learning Programming 
 - 💞️ I’m looking to collaborate on nothing right now
